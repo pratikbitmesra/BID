@@ -1,0 +1,8 @@
+HDD:number,drive_type,number_of_cylinders,number_of_heads,sectors/track,capacity_of_drive (in bytes),command_processing_time(ms),settle_time,rotational_latency,average_seek_time,cylinder_switch_time,head_switch_time,track_to_adjacent_track
+SSD:number,drive_type,number_of_pages_per_block,size_of_each_page(bytes),capacity_of_drive (in bytes),seek_time_write(in ms), seek_time_read(in ms)
+1,hdd,30400,255,63,250056000000,0.5,0.1,5.6,12,3,0.1,0.6
+2,ssd,256,4096,50056000000,0.5,0.025
+3,hdd,30400,12,63,450056000000,0.5,0.1,5.6,10,2,1,0.6
+4,hdd,300400,255,63,800056000000,0.5,0.1,5.6,12,3,1,0.6
+5,ssd,128,4096,35056000000,0.5,0.25
+6,hdd,30400,12,63,450056000000,0.5,0.1,4.2,10,2,1,0.6

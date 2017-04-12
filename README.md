@@ -1,0 +1,2 @@
+# BID
+Bulk I/O Dispatch, i.e. BID Schemes. We have designed and developed two contention avoidance storage solutions, collectively known as BID: Bulk I/O Dispatch, for big data environment. BID-HDD is a disk scheduling scheme. BID-Hybrid is another contention avoidance scheme using hybrid tiers of storage for improving HDD performance using SSDs. In this project we have designed system simulators to emulate the behavior of the block layer of the system as well as the storage devices, taking the input as traces from blktrace.

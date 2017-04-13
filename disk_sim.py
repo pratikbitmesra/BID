@@ -7,7 +7,7 @@
 # returns this value to blockio_sim.py 
 
 ''' This module simulates the working of different storage devices, such as HDDs, Storage Class Memories SCMs (SSDs) deployed in Data-Centers. It simulates the devices including rotational latency, command processing, settle time, cylinder switch time, head switch time, etc. HDDs are simulated to perfection for 48 bit LBA CHS compliance.
- Use of this code or part of this code, needs to be cited. Any uncited or improper usage would be dealt with copywrite compliance laws. '''
+ Use of this code or part of this code, needs to be cited. Any uncited or improper usage would be dealt with copyright compliance laws. '''
 
 
 import os

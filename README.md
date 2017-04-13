@@ -6,4 +6,4 @@ BID-HDD has been published as Mishra, P., Mishra, M., Somani, A.K.: Bulk i/o sto
 
 
 
-Using these codes or part of these code should be cited as the copywrite is reserved. Without proper citation or unethical usage, would be dealt with copywrite infringement laws. Citing should be done both the paper as well as Gitlink. 
+Using these codes or part of these code should be cited as the copywrite is reserved. Without proper citation or unethical usage, would be dealt with copyright infringement laws. Citing should be done both the paper as well as Gitlink. 

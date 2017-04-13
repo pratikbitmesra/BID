@@ -2,7 +2,8 @@
 # Authors: Pratik Mishra, Iowa State University
 # Takes the pid, lba, sectors, media and stores the access history
 # in a file known as File System location SSD_entries_trace_file
-''' This code simulates the working of the Virtual File System and VFS-SSD table. Use of this code or part of this code, needs to be cited. Any uncited or improper usage would be dealt with copywrite compliance laws.'''
+''' This code simulates the working of the Virtual File System and VFS-SSD table.
+Use of this code or part of this code, needs to be cited. Any uncited or improper usage would be dealt with copyright compliance laws.'''
 
 import os
 import sys

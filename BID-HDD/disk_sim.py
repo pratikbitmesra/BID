@@ -1,4 +1,3 @@
-
 # Program 2. disk_sim.py : Simulates the disk access time and returns it.
 # Author: Pratik Mishra, Iowa State University.
 # Compile : python disk_sim.py disk_config
@@ -6,9 +5,9 @@
 # It has the disk geometry stored, with the current location of the head.
 # It calculates the time required to move from current location to the requested location 
 # returns this value to blockio_sim.py 
-''' This module simulates the working of different storage devices, such as HDDs, Storage Class Memories SCMs (SSDs) deployed in Data-Centers. It simulates the devices including rotational latency, command processing, settle time, cylinder switch time, head switch time, etc. HDDs are simulated to perfection for 48 bit LBA CHS compliance.
-Use of this code or part of this code, needs to be cited. Any uncited or improper usage would be dealt with copyright compliance laws.'''
 
+''' This module simulates the working of different storage devices, such as HDDs, Storage Class Memories SCMs (SSDs) deployed in Data-Centers. It simulates the devices including rotational latency, command processing, settle time, cylinder switch time, head switch time, etc. HDDs are simulated to perfection for 48 bit LBA CHS compliance.
+ Use of this code or part of this code, needs to be cited. Any uncited or improper usage would be dealt with copywrite compliance laws. '''
 
 
 import os

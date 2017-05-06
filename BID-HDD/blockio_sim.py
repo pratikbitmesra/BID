@@ -11,7 +11,7 @@
 ''' Simulates the working of submitting of libaio of applications to the OS block layers. 
 Forms the working of the BIO (block I/O) structures (request structure) from the bio_vec structure stages (Q) from the traces.
 Use of this code or part of this code, needs to be cited. 
-Any uncited or improper usage would be dealt with copyright compliance laws. Proper Citation given on the main page of BID.'''
+Any uncited or improper usage would be dealt with copywrite compliance laws. Proper Citation given on the main page of BID.'''
 
 
 
